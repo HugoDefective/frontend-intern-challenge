@@ -1,3 +1,18 @@
+#caixainput {
+  background-color: rgba(247, 35, 35, 0.712);
+  width: 80%;
+  height: 500px;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+}
 
+#input1 {
+  background-color: rgba(255, 248, 248, 0.719);
+  border: none;
+  border-radius: 2px;
+  height: 20px;
+  width: 300px;
+}
 
 /*# sourceMappingURL=style.css.map */
